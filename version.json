@@ -1,11 +1,13 @@
 {
- "version": "1.7.4",
- "date": "2026-11-05",
- "apk": "https://github.com/SideYu0101/lwsj-news/releases/download/v1.7.4/lwsj-1.7.4.apk",
- "notes": [
-  "修复",
-  "部分传说精灵在筛选功能不显示的问题",
-  "s5赛季精灵蛋组显示异常的问题",
-  "部分精灵图鉴分类显示异常的问题"
- ]
+    "version":  "1.7.4",
+    "code":  49,
+    "date":  "2026-11-05",
+    "size":  32806862,
+    "apk":  "https://github.com/SideYu0101/lwsj-news/releases/download/v1.7.4/lwsj-1.7.4.apk",
+    "notes":  [
+                  "修复",
+                  "部分传说精灵在筛选功能不显示的问题",
+                  "s5赛季精灵蛋组显示异常的问题",
+                  "部分精灵图鉴分类显示异常的问题"
+              ]
 }
