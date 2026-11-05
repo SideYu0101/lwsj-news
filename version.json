@@ -1,10 +1,9 @@
 {
- "version": "1.7.0",
- "code": 45,
+ "version": "1.7.1",
  "date": "2026-11-05",
- "size": 32675260,
- "apk": "https://github.com/SideYu0101/lwsj-news/releases/download/v1.7.0/lwsj-1.7.0.apk",
+ "apk": "https://github.com/SideYu0101/lwsj-news/releases/download/v1.7.1/lwsj-1.7.1.apk",
  "notes": [
-  "设置里新增「检查更新」：点一下才联网查最新版本，有新版本会列出版本号、日期、体积与更新内容，并给一个「下载」按钮（转到浏览器下载安装包）"
+  "图鉴新增 NO.493 阿布（龙系）：六维、特性「圣龙的心愿」、45 个招式，以及首领形态「超能阿布」（特性「圣龙的守护」，通过旧忆头巾首领化）",
+  "精灵图鉴的形态筛选新增「传说精灵」"
  ]
 }
