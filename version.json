@@ -1,9 +1,10 @@
 {
  "version": "1.7.0",
+ "code": 45,
  "date": "2026-11-05",
+ "size": 32675260,
  "apk": "https://github.com/SideYu0101/lwsj-news/releases/download/v1.7.0/lwsj-1.7.0.apk",
  "notes": [
   "设置里新增「检查更新」：点一下才联网查最新版本，有新版本会列出版本号、日期、体积与更新内容，并给一个「下载」按钮（转到浏览器下载安装包）"
- ],
- "size": 32715571
+ ]
 }
