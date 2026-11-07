@@ -1,9 +1,9 @@
 {
-    "version":  "1.7.5",
-    "code":  50,
-    "date":  "2026-11-05",
-    "size":  32806862,
-    "apk":  "https://github.com/SideYu0101/lwsj-news/releases/download/v1.7.5/lwsj-1.7.5.apk",
+    "version":  "1.7.6",
+    "code":  51,
+    "date":  "2026-11-07",
+    "size":  32819306,
+    "apk":  "https://github.com/SideYu0101/lwsj-news/releases/download/v1.7.6/lwsj-1.7.6.apk",
     "notes":  [
                   "修复",
                   "部分传说精灵在筛选功能不显示的问题",
