@@ -1,10 +1,9 @@
 {
-    "version":  "1.7.7",
-    "code":  52,
-    "date":  "2026-11-07",
-    "size":  32819306,
-    "apk":  "https://github.com/SideYu0101/lwsj-news/releases/download/v1.7.7/lwsj-1.7.7.apk",
-    "notes":  [
-                  "添加了新版本的技能石学习面"
-              ]
+ "version": "1.7.7",
+ "date": "2026-11-07",
+ "apk": "https://github.com/SideYu0101/lwsj-news/releases/download/v1.7.7/lwsj-1.7.7.apk",
+ "notes": [
+  "修复了漏掉的s5技能池学习面"
+ ],
+ "size": 32819306
 }
