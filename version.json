@@ -1,10 +1,9 @@
 {
-    "version":  "1.7.8",
-    "code":  53,
-    "date":  "2026-11-20",
-    "size":  32975527,
-    "apk":  "https://github.com/SideYu0101/lwsj-news/releases/download/v1.7.8/lwsj-1.7.8.apk",
-    "notes":  [
-                  "修复了漏掉的s5技能池学习面"
-              ]
+ "version": "1.7.8",
+ "date": "2026-11-20",
+ "apk": "https://github.com/SideYu0101/lwsj-news/releases/download/v1.7.8/lwsj-1.7.8.apk",
+ "notes": [
+  "更新了铃兰夫人家族图鉴"
+ ],
+ "size": 32975527
 }
